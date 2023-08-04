@@ -509,7 +509,7 @@
 		<dependency>
 			<groupId>com.aliyun.odps</groupId>
 			<artifactId>odps-sdk-udf</artifactId>
-			<version>0.37.10-public</version>
+			<version>0.45.1-public</version>
 			<scope>provided</scope>
 			<optional>true</optional>
 			<exclusions>
